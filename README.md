@@ -1,7 +1,7 @@
 # meetups-lehi
 
 UtahJS Lehi - Meetup topics, suggestions, and speaker signups!
-http://www.meetup.com/UtahJS/
+[meetup.com/UtahJS/](https://www.meetup.com/UtahJS/)
 
 We invite all of you to propose ideas for presentations you would like to see or things you would like to share with the group. While you're in here, vote for the presentations you would like to see or volunteer to present on an unclaimed topic.
 
